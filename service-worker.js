@@ -1,11 +1,11 @@
-const CACHE_NAME = 'attend-app-v1';
+const CACHE_NAME = 'attend-app-v2';
 const ASSETS = [
     './',
     './index.html',
     './style.css',
     './app.js',
     './manifest.json',
-    './assets/logo.jpg'
+    './assets/logo-new.jpg'
 ];
 
 self.addEventListener('install', (e) => {
